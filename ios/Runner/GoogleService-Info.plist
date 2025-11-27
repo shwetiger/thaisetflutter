@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>963689075560-d89lqeplvpr607lckl2nmthcefv58due.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.963689075560-d89lqeplvpr607lckl2nmthcefv58due</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>963689075560-456u833edh00eco1rnkq69lstfvucv0k.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC5A0ITTcAPizxZT_oBemnI3wtR2p-4-Zo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>963689075560</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mobile.thai2dlive</string>
+	<key>PROJECT_ID</key>
+	<string>thai2dlive-ce088</string>
+	<key>STORAGE_BUCKET</key>
+	<string>thai2dlive-ce088.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:963689075560:ios:0facc1fd6e6450eebcfcdd</string>
+</dict>
+</plist>

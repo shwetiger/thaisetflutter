@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "963689075560",
+    "project_id": "thai2dlive-ce088",
+    "storage_bucket": "thai2dlive-ce088.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963689075560:android:380479b80a803b58bcfcdd",
+        "android_client_info": {
+          "package_name": "com.mobile.thai2dlive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963689075560-456u833edh00eco1rnkq69lstfvucv0k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobile.thai2dlive",
+            "certificate_hash": "3f4a8fd614c6ea49e9f4365e77481111d5ec2030"
+          }
+        },
+        {
+          "client_id": "963689075560-4qdbroc2mdqf9pikpf87si7g317jnhfs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUYA48Nngt3JiCrm0EfZFKDHURfDNFHKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "963689075560-4qdbroc2mdqf9pikpf87si7g317jnhfs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "963689075560-d89lqeplvpr607lckl2nmthcefv58due.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mobile.thai2dlive"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
